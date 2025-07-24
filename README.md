@@ -41,12 +41,6 @@ The project consists of two main components:
 - `model_01_deconv.py`: Main implementation of the 3D CNN architecture
 - `input_velodyne.py`: Data loading and preprocessing functionality
 
-## 🖼️ Results
-
-Below are example outputs showing 3D bounding box detection (8 vertices) without NMS (Non-Maximum Suppression):
-
-![Detection Example 1](./image/test_3000.png)
-![Detection Example 2](./image/test_5000.png)
 
 ## 📝 Citation
 
